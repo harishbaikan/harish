@@ -1,5 +1,5 @@
 class Hello{
-	Public static privat:wq!
+	Public storage!
 		e)
 		
 }
