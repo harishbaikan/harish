@@ -1,5 +1,6 @@
 class Hello{
-	Public static void main(String[] args)
+	Public static privat:wq!
+		e)
 		
 }
 {#include stdio .h}
