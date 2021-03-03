@@ -1,6 +1,6 @@
-class Hello{
+class  harissh {{
 	Public storage!
 		e)
 		
 }
-{#include stdio .h}
+{#include .h}
