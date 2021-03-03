@@ -1,6 +1,6 @@
-class Hello{
+class devops 1 {
 	Public storage!
 		e)
 		
 }
-{#include stdio .h}
+{#include class  .h}
